@@ -9,7 +9,7 @@ esse sistema é constituida em 2 partes, uma do cliente e outra do usuario.
 <p>https://ephemeral-kitsune-72b2ee.netlify.app/</p>
 <br>
 <br>
-<h1>Pagina que o usuario vai ter para poder fazer o gerenciamento e o controle do tempo e de todos os clientes e bicicletas que estaão em uso.</h1>
+<h1>Pagina que o usuario vai ter para poder fazer o gerenciamento e o controle do tempo e de todos os clientes e bicicletas que estão em uso.</h1>
 <img src="Captura de tela 2025-08-01 050308.png">
 <p></p>
 <br>
